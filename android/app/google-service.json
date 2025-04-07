@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "842307304280",
+    "project_id": "kwik-47f6b",
+    "storage_bucket": "kwik-47f6b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:842307304280:android:a39ef264a0e832c945c32d",
+        "android_client_info": {
+          "package_name": "com.example.unstudio_ai"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "842307304280-h61nhjomc0i5jo81bralvehobsfoq0s2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD5e-U6Ck4hJfZ5i9FMKHTvY-nh2rtCMtE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "842307304280-h61nhjomc0i5jo81bralvehobsfoq0s2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

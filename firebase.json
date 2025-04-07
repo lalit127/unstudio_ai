@@ -1,0 +1,29 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "unstudio-ai-practical",
+          "appId": "1:480626647708:android:a2169a10323b283af44359",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "unstudio-ai-practical",
+          "configurations": {
+            "android": "1:480626647708:android:a2169a10323b283af44359",
+            "ios": "1:480626647708:ios:bd359a73378d6bc7f44359"
+          }
+        }
+      }
+    }
+  },
+  "firestore": {
+    "rules": "firestore.rules",
+    "indexes": "firestore.indexes.json"
+  },
+  "storage": {
+    "rules": "storage.rules"
+  }
+}
